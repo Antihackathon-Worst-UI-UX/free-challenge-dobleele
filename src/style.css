@@ -1,15 +1,31 @@
 body {
   font-family: Arial, sans-serif;
-  background: #f2f2f2;
   text-align: center;
-  padding: 2rem;
+  
+  background-color: rgb(14, 65, 74);
 }
-
+head{
+  background-color: rgb(5, 7, 7);
+}
+.header-bg {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: rgb(17, 18, 18); /* Reemplaza con el color que usas en head */
+  width: 100%;
+  padding: 40px 0;
+  text-align: center;
+}
 h1 {
-  color: #2a9d8f;
+  color: #056e65;
+
 }
 
 p {
   font-size: 1.2rem;
-  color: #264653;
+  color: #5c737c;
+
+}
+form{
+  padding: 5px;
 }
