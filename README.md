@@ -19,9 +19,14 @@ Tu objetivo será crear una Interfaz Grafica absurdamente incomoda, frustrante y
 - Si bien la experiencia de usuario debe ser frustrante y/o divertida, tu UI tiene que cumplir con su objetivo
 
 ## Entrega ✅
+
 - Este repositorio será revisado por los jueces al termino de la competencia: *Martes 19 Agosto - 23:59*
 - Link Deploy = [Remplazar por el link donde tenga hosteada su UI]
 
 ---
 
 ¡Buena suerte ~~buen~~ mal diseñador/a 🧑🏻‍🎨👨🏻‍🎨!
+
+
+## Estado
+- Retirado de la competencia
